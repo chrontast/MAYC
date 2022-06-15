@@ -4,16 +4,16 @@ export const CONFIG = {
     "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "137",
+    "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
-    "title": "My NFT Collection",
+    "title": "MAYC",
 
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "",
+    "banner_picture": "https://img.seadn.io/files/b8a8dd3e781fb49fb64b519e3a5498f4.png?fit=max&auto=format&w=600",
   },
 
   // Supported networks - just for your reference
